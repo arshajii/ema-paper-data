@@ -1,0 +1,21 @@
+                                        
+tool:            None                   tool:            None
+dataset:         ema_out.phase          dataset:         lariat_out.phase
+switch rate:     0.0065178435900910036  switch rate:     0.006619326845873702
+mismatch rate:   0.007208635092814422   mismatch rate:   0.007481945132741562
+flat rate:       0.2739154091128182     flat rate:       0.3102974562912957
+missing rate:    0                      missing rate:    0
+switch errors:   12796                  switch errors:   13001
+poss. switch:    1963226                poss. switch:    1964097
+mismatch errors: 14163                  mismatch errors: 14705
+poss. mismatch:  1964727                poss. mismatch:  1965398
+flat errors:     538169                 flat errors:     609858
+poss. flat:      1964727                poss. flat:      1965398
+phased count:    1983761                phased count:    1985317
+num covered:     0                      num covered:     0
+AN50:            -2485458.0369228786    AN50:            -8361101.595659018
+N50:             111392359              N50:             92447569
+max blk snp %:   0.02188222411002143    max blk snp %:   0.01896390550867403
+runtime:         -1                     runtime:         -1
+missed vcf:      769327                 missed vcf:      831048
+                                                

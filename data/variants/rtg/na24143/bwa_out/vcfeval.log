@@ -1,0 +1,328 @@
+2018-02-12 11:16:46 serial = 27182818284
+2018-02-12 11:16:46 email = anon
+2018-02-12 11:16:46 RTG version = RTG Tools 3.8.4 / Core bdba5ea (2017-09-19)
+2018-02-12 11:16:46 awt.toolkit = sun.lwawt.macosx.LWCToolkit
+2018-02-12 11:16:46 file.encoding = UTF-8
+2018-02-12 11:16:46 file.encoding.pkg = sun.io
+2018-02-12 11:16:46 file.separator = /
+2018-02-12 11:16:46 gopherProxySet = false
+2018-02-12 11:16:46 host.name = dhcp-18-111-6-181.dyn.MIT.EDU
+2018-02-12 11:16:46 java.awt.graphicsenv = sun.awt.CGraphicsEnvironment
+2018-02-12 11:16:46 java.awt.printerjob = sun.lwawt.macosx.CPrinterJob
+2018-02-12 11:16:46 java.class.path = /Users/arshajii/Documents/research/map10x/utils/rtg-tools/dist/rtg-tools-3.8.4-bdba5ea/RTG.jar
+2018-02-12 11:16:46 java.class.version = 53.0
+2018-02-12 11:16:46 java.home = /Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home
+2018-02-12 11:16:46 java.io.tmpdir = /var/folders/l0/8qx8wvwj3y99fmk0rffwcjdw0000gn/T/
+2018-02-12 11:16:46 java.library.path = /Users/arshajii/Documents/research/map10x/utils/rtg-tools/dist/rtg-tools-3.8.4-bdba5ea
+2018-02-12 11:16:46 java.runtime.name = Java(TM) SE Runtime Environment
+2018-02-12 11:16:46 java.runtime.version = 9.0.4+11
+2018-02-12 11:16:46 java.specification.name = Java Platform API Specification
+2018-02-12 11:16:46 java.specification.vendor = Oracle Corporation
+2018-02-12 11:16:46 java.specification.version = 9
+2018-02-12 11:16:46 java.vendor = Oracle Corporation
+2018-02-12 11:16:46 java.vendor.url = http://java.oracle.com/
+2018-02-12 11:16:46 java.vendor.url.bug = http://bugreport.java.com/bugreport/
+2018-02-12 11:16:46 java.version = 9.0.4
+2018-02-12 11:16:46 java.vm.compressedOopsMode = Zero based
+2018-02-12 11:16:46 java.vm.info = mixed mode
+2018-02-12 11:16:46 java.vm.name = Java HotSpot(TM) 64-Bit Server VM
+2018-02-12 11:16:46 java.vm.specification.name = Java Virtual Machine Specification
+2018-02-12 11:16:46 java.vm.specification.vendor = Oracle Corporation
+2018-02-12 11:16:46 java.vm.specification.version = 9
+2018-02-12 11:16:46 java.vm.vendor = Oracle Corporation
+2018-02-12 11:16:46 java.vm.version = 9.0.4+11
+2018-02-12 11:16:46 jdk.debug = release
+2018-02-12 11:16:46 lang.version = 9.0.4
+2018-02-12 11:16:46 line.separator = 
+
+2018-02-12 11:16:46 models.dir = /Users/arshajii/Documents/research/map10x/utils/rtg-tools/dist/rtg-tools-3.8.4-bdba5ea/models
+2018-02-12 11:16:46 os.arch = x86_64
+2018-02-12 11:16:46 os.freememory = 8458362880
+2018-02-12 11:16:46 os.name = Mac OS X
+2018-02-12 11:16:46 os.totalmemory = 17179869184
+2018-02-12 11:16:46 os.version = 10.13.3
+2018-02-12 11:16:46 path.separator = :
+2018-02-12 11:16:46 processor.arch = x86_64
+2018-02-12 11:16:46 processor.count = 4
+2018-02-12 11:16:46 references.dir = /Users/arshajii/Documents/research/map10x/utils/rtg-tools/dist/rtg-tools-3.8.4-bdba5ea/references
+2018-02-12 11:16:46 runtime.freememory = 257357320
+2018-02-12 11:16:46 runtime.maxmemory = 15462301696
+2018-02-12 11:16:46 runtime.totalMemory = 268435456
+2018-02-12 11:16:46 sun.arch.data.model = 64
+2018-02-12 11:16:46 sun.boot.library.path = /Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib
+2018-02-12 11:16:46 sun.cpu.endian = little
+2018-02-12 11:16:46 sun.cpu.isalist = 
+2018-02-12 11:16:46 sun.io.unicode.encoding = UnicodeBig
+2018-02-12 11:16:46 sun.java.command = /Users/arshajii/Documents/research/map10x/utils/rtg-tools/dist/rtg-tools-3.8.4-bdba5ea/RTG.jar vcfeval --baseline=HG004_GRCh37_GIAB_highconf_CG-IllFB-IllGATKHC-Ion-10X_CHROM1-22_v.3.3.2_highconf.vcf.gz --evaluation-regions=HG004_GRCh37_GIAB_highconf_CG-IllFB-IllGATKHC-Ion-10X_CHROM1-22_v.3.3.2_highconf_noinconsistent.bed --calls=bwa_out.reformat.vcf.gz --output=bwa_out --template=../hg19_new.sdf
+2018-02-12 11:16:46 sun.java.launcher = SUN_STANDARD
+2018-02-12 11:16:46 sun.jnu.encoding = UTF-8
+2018-02-12 11:16:46 sun.management.compiler = HotSpot 64-Bit Tiered Compilers
+2018-02-12 11:16:46 sun.os.patch.level = unknown
+2018-02-12 11:16:46 talkback = true
+2018-02-12 11:16:46 user.country = US
+2018-02-12 11:16:46 user.dir = /Users/arshajii/Documents/research/map10x/utils/data/na24143
+2018-02-12 11:16:46 user.home = /Users/arshajii
+2018-02-12 11:16:46 user.language = en
+2018-02-12 11:16:46 user.name = arshajii
+2018-02-12 11:16:46 user.timezone = America/New_York
+2018-02-12 11:16:46 vendor = Oracle Corporation
+2018-02-12 11:16:46 gzipfix.enabled = true
+2018-02-12 11:16:46 Command line arguments: rtg vcfeval --baseline=HG004_GRCh37_GIAB_highconf_CG-IllFB-IllGATKHC-Ion-10X_CHROM1-22_v.3.3.2_highconf.vcf.gz --evaluation-regions=HG004_GRCh37_GIAB_highconf_CG-IllFB-IllGATKHC-Ion-10X_CHROM1-22_v.3.3.2_highconf_noinconsistent.bed --calls=bwa_out.reformat.vcf.gz --output=bwa_out --template=../hg19_new.sdf
+2018-02-12 11:16:46 Run Id: e70bf842-b782-4c0b-be42-ed78f62ac8e0
+2018-02-12 11:16:46 Referenced SDF-ID: 13a48056-2d9c-4ca6-8c6b-974fe0ce4500 Type: DNA Sequences: 85 Max-Length: 249250621 Min-Length: 4262 Arm: UNKNOWN
+2018-02-12 11:16:47 Reference sequence X is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Y is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence M is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence 1_gl000191_random is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence 1_gl000192_random is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence 4_gl000193_random is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence 4_gl000194_random is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence 7_gl000195_random is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence 8_gl000196_random is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence 8_gl000197_random is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence 9_gl000198_random is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence 9_gl000199_random is used in calls but not in baseline.
+2018-02-12 11:16:47 Skipping reference sequence 9_gl000200_random that is used by neither baseline or calls.
+2018-02-12 11:16:47 Skipping reference sequence 9_gl000201_random that is used by neither baseline or calls.
+2018-02-12 11:16:47 Reference sequence 11_gl000202_random is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence 17_gl000203_random is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence 17_gl000204_random is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence 17_gl000205_random is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence 17_gl000206_random is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence 18_gl000207_random is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence 19_gl000208_random is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence 19_gl000209_random is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence 21_gl000210_random is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000211 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000212 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000213 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000214 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000215 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000216 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000217 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000218 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000219 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000220 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000221 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000222 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000223 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000224 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000225 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000226 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000227 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000228 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000229 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000230 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000231 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000232 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000233 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000234 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000235 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000236 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000237 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000238 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000239 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000240 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000241 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000242 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000243 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000244 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000245 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000246 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000247 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000248 is used in calls but not in baseline.
+2018-02-12 11:16:47 Reference sequence Un_gl000249 is used in calls but not in baseline.
+2018-02-12 11:16:47 Skipping reference sequence hs37d5 that is used by neither baseline or calls.
+2018-02-12 11:16:52 Reference 1 baseline contains 287152 variants.
+2018-02-12 11:16:52 Reference 1 calls contains 413923 variants.
+2018-02-12 11:16:59 Reference 2 baseline contains 309134 variants.
+2018-02-12 11:16:59 Reference 2 calls contains 415359 variants.
+2018-02-12 11:17:01 Reference 1 had maximum path complexity of 604 at 1:68750677-68750805
+2018-02-12 11:17:07 Reference 3 baseline contains 267163 variants.
+2018-02-12 11:17:07 Reference 3 calls contains 355398 variants.
+2018-02-12 11:17:10 Reference 2 had maximum path complexity of 1466 at 2:37201744-37201922
+2018-02-12 11:17:15 Reference 4 baseline contains 274972 variants.
+2018-02-12 11:17:15 Reference 4 calls contains 368096 variants.
+2018-02-12 11:17:15 Reference 3 had maximum path complexity of 1935 at 3:37637754-37637774
+2018-02-12 11:17:21 Reference 4 had maximum path complexity of 649 at 4:137311637-137311955
+2018-02-12 11:17:26 Reference 5 baseline contains 235472 variants.
+2018-02-12 11:17:26 Reference 5 calls contains 319013 variants.
+2018-02-12 11:17:30 Reference 5 had maximum path complexity of 433 at 5:3439719-3439748
+2018-02-12 11:17:37 Reference 6 baseline contains 222228 variants.
+2018-02-12 11:17:37 Reference 6 calls contains 333014 variants.
+2018-02-12 11:17:41 Reference 6 had maximum path complexity of 347 at 6:3406781-3408071
+2018-02-12 11:17:47 Reference 7 baseline contains 199510 variants.
+2018-02-12 11:17:47 Reference 7 calls contains 288982 variants.
+2018-02-12 11:17:55 Reference 7 had maximum path complexity of 12683 at 7:97769442-97769636
+2018-02-12 11:17:59 Reference 8 baseline contains 201515 variants.
+2018-02-12 11:17:59 Reference 8 calls contains 268706 variants.
+2018-02-12 11:18:03 Reference 8 had maximum path complexity of 1152 at 8:8898239-8898820
+2018-02-12 11:18:07 Reference 9 baseline contains 153173 variants.
+2018-02-12 11:18:07 Reference 9 calls contains 219373 variants.
+2018-02-12 11:18:10 Reference 9 had maximum path complexity of 219 at 9:18838879-18839021
+2018-02-12 11:18:16 Reference 10 baseline contains 179648 variants.
+2018-02-12 11:18:16 Reference 10 calls contains 255919 variants.
+2018-02-12 11:18:19 Reference 10 had maximum path complexity of 297 at 10:19517909-19517951
+2018-02-12 11:18:24 Reference 11 baseline contains 183022 variants.
+2018-02-12 11:18:24 Reference 11 calls contains 257168 variants.
+2018-02-12 11:18:27 Reference 11 had maximum path complexity of 969 at 11:82552305-82552579
+2018-02-12 11:18:31 Reference 12 baseline contains 173511 variants.
+2018-02-12 11:18:31 Reference 12 calls contains 240162 variants.
+2018-02-12 11:18:34 Reference 12 had maximum path complexity of 2245 at 12:128911932-128912188
+2018-02-12 11:18:36 Reference 13 baseline contains 142558 variants.
+2018-02-12 11:18:36 Reference 13 calls contains 190466 variants.
+2018-02-12 11:18:39 Reference 13 had maximum path complexity of 804 at 13:86319052-86319112
+2018-02-12 11:18:44 Reference 14 baseline contains 119787 variants.
+2018-02-12 11:18:44 Reference 14 calls contains 165530 variants.
+2018-02-12 11:18:48 Reference 14 had maximum path complexity of 1741 at 14:52393868-52394576
+2018-02-12 11:18:52 Reference 15 baseline contains 105763 variants.
+2018-02-12 11:18:52 Reference 15 calls contains 155403 variants.
+2018-02-12 11:18:53 Reference 15 had maximum path complexity of 1101 at 15:94705340-94706906
+2018-02-12 11:18:58 Reference 16 baseline contains 106348 variants.
+2018-02-12 11:18:58 Reference 16 calls contains 154889 variants.
+2018-02-12 11:19:00 Reference 16 had maximum path complexity of 248 at 16:57049503-57049856
+2018-02-12 11:19:03 Reference 17 baseline contains 91509 variants.
+2018-02-12 11:19:03 Reference 17 calls contains 137676 variants.
+2018-02-12 11:19:05 Reference 17 had maximum path complexity of 729 at 17:48146175-48146367
+2018-02-12 11:19:07 Reference 18 baseline contains 105849 variants.
+2018-02-12 11:19:07 Reference 18 calls contains 143718 variants.
+2018-02-12 11:19:09 Reference 18 had maximum path complexity of 729 at 18:77145364-77145440
+2018-02-12 11:19:11 Reference 19 baseline contains 68951 variants.
+2018-02-12 11:19:11 Reference 19 calls contains 112776 variants.
+2018-02-12 11:19:12 Reference 19 had maximum path complexity of 151 at 19:52019399-52019953
+2018-02-12 11:19:14 Reference 20 baseline contains 78268 variants.
+2018-02-12 11:19:14 Reference 20 calls contains 108629 variants.
+2018-02-12 11:19:15 Reference 20 had maximum path complexity of 245 at 20:37346831-37347075
+2018-02-12 11:19:18 Reference 21 baseline contains 51909 variants.
+2018-02-12 11:19:18 Reference 21 calls contains 83508 variants.
+2018-02-12 11:19:18 Reference 21 had maximum path complexity of 433 at 21:21071582-21072684
+2018-02-12 11:19:21 Reference 22 baseline contains 40033 variants.
+2018-02-12 11:19:21 Reference 22 calls contains 66408 variants.
+2018-02-12 11:19:21 Reference 22 had maximum path complexity of 133 at 22:17862121-17862126
+2018-02-12 11:19:24 Reference X baseline contains 0 variants.
+2018-02-12 11:19:24 Reference X calls contains 170536 variants.
+2018-02-12 11:19:26 Reference Y baseline contains 0 variants.
+2018-02-12 11:19:26 Reference Y calls contains 3915 variants.
+2018-02-12 11:19:27 Reference M baseline contains 0 variants.
+2018-02-12 11:19:27 Reference M calls contains 48 variants.
+2018-02-12 11:19:28 Reference 1_gl000191_random baseline contains 0 variants.
+2018-02-12 11:19:28 Reference 1_gl000191_random calls contains 88 variants.
+2018-02-12 11:19:29 Reference 1_gl000192_random baseline contains 0 variants.
+2018-02-12 11:19:29 Reference 1_gl000192_random calls contains 863 variants.
+2018-02-12 11:19:30 Reference 4_gl000193_random baseline contains 0 variants.
+2018-02-12 11:19:30 Reference 4_gl000193_random calls contains 1403 variants.
+2018-02-12 11:19:30 Reference 4_gl000194_random baseline contains 0 variants.
+2018-02-12 11:19:30 Reference 4_gl000194_random calls contains 973 variants.
+2018-02-12 11:19:30 Reference 7_gl000195_random baseline contains 0 variants.
+2018-02-12 11:19:30 Reference 7_gl000195_random calls contains 3015 variants.
+2018-02-12 11:19:30 Reference 8_gl000196_random baseline contains 0 variants.
+2018-02-12 11:19:30 Reference 8_gl000196_random calls contains 1 variants.
+2018-02-12 11:19:30 Reference 8_gl000197_random baseline contains 0 variants.
+2018-02-12 11:19:30 Reference 8_gl000197_random calls contains 4 variants.
+2018-02-12 11:19:31 Reference 9_gl000198_random baseline contains 0 variants.
+2018-02-12 11:19:31 Reference 9_gl000198_random calls contains 381 variants.
+2018-02-12 11:19:31 Reference 9_gl000199_random baseline contains 0 variants.
+2018-02-12 11:19:31 Reference 9_gl000199_random calls contains 1074 variants.
+2018-02-12 11:19:31 Reference 11_gl000202_random baseline contains 0 variants.
+2018-02-12 11:19:31 Reference 11_gl000202_random calls contains 51 variants.
+2018-02-12 11:19:31 Reference 17_gl000203_random baseline contains 0 variants.
+2018-02-12 11:19:31 Reference 17_gl000203_random calls contains 51 variants.
+2018-02-12 11:19:31 Reference 17_gl000204_random baseline contains 0 variants.
+2018-02-12 11:19:31 Reference 17_gl000204_random calls contains 90 variants.
+2018-02-12 11:19:32 Reference 17_gl000205_random baseline contains 0 variants.
+2018-02-12 11:19:32 Reference 17_gl000205_random calls contains 2472 variants.
+2018-02-12 11:19:32 Reference 17_gl000206_random baseline contains 0 variants.
+2018-02-12 11:19:32 Reference 17_gl000206_random calls contains 7 variants.
+2018-02-12 11:19:32 Reference 18_gl000207_random baseline contains 0 variants.
+2018-02-12 11:19:32 Reference 18_gl000207_random calls contains 11 variants.
+2018-02-12 11:19:32 Reference 19_gl000208_random baseline contains 0 variants.
+2018-02-12 11:19:32 Reference 19_gl000208_random calls contains 1301 variants.
+2018-02-12 11:19:32 Reference 19_gl000209_random baseline contains 0 variants.
+2018-02-12 11:19:32 Reference 19_gl000209_random calls contains 146 variants.
+2018-02-12 11:19:32 Reference 21_gl000210_random baseline contains 0 variants.
+2018-02-12 11:19:32 Reference 21_gl000210_random calls contains 11 variants.
+2018-02-12 11:19:33 Reference Un_gl000211 baseline contains 0 variants.
+2018-02-12 11:19:33 Reference Un_gl000211 calls contains 228 variants.
+2018-02-12 11:19:33 Reference Un_gl000212 baseline contains 0 variants.
+2018-02-12 11:19:33 Reference Un_gl000212 calls contains 1049 variants.
+2018-02-12 11:19:33 Reference Un_gl000213 baseline contains 0 variants.
+2018-02-12 11:19:33 Reference Un_gl000213 calls contains 99 variants.
+2018-02-12 11:19:33 Reference Un_gl000214 baseline contains 0 variants.
+2018-02-12 11:19:33 Reference Un_gl000214 calls contains 2004 variants.
+2018-02-12 11:19:34 Reference Un_gl000215 baseline contains 0 variants.
+2018-02-12 11:19:34 Reference Un_gl000215 calls contains 37 variants.
+2018-02-12 11:19:34 Reference Un_gl000216 baseline contains 0 variants.
+2018-02-12 11:19:34 Reference Un_gl000216 calls contains 833 variants.
+2018-02-12 11:19:34 Reference Un_gl000217 baseline contains 0 variants.
+2018-02-12 11:19:34 Reference Un_gl000217 calls contains 1181 variants.
+2018-02-12 11:19:34 Reference Un_gl000218 baseline contains 0 variants.
+2018-02-12 11:19:34 Reference Un_gl000218 calls contains 694 variants.
+2018-02-12 11:19:34 Reference Un_gl000219 baseline contains 0 variants.
+2018-02-12 11:19:34 Reference Un_gl000219 calls contains 1787 variants.
+2018-02-12 11:19:35 Reference Un_gl000220 baseline contains 0 variants.
+2018-02-12 11:19:35 Reference Un_gl000220 calls contains 1749 variants.
+2018-02-12 11:19:35 Reference Un_gl000221 baseline contains 0 variants.
+2018-02-12 11:19:35 Reference Un_gl000221 calls contains 522 variants.
+2018-02-12 11:19:35 Reference Un_gl000222 baseline contains 0 variants.
+2018-02-12 11:19:35 Reference Un_gl000222 calls contains 497 variants.
+2018-02-12 11:19:35 Reference Un_gl000223 baseline contains 0 variants.
+2018-02-12 11:19:35 Reference Un_gl000223 calls contains 8 variants.
+2018-02-12 11:19:35 Reference Un_gl000224 baseline contains 0 variants.
+2018-02-12 11:19:35 Reference Un_gl000224 calls contains 1178 variants.
+2018-02-12 11:19:36 Reference Un_gl000225 baseline contains 0 variants.
+2018-02-12 11:19:36 Reference Un_gl000225 calls contains 2716 variants.
+2018-02-12 11:19:36 Reference Un_gl000226 baseline contains 0 variants.
+2018-02-12 11:19:36 Reference Un_gl000226 calls contains 145 variants.
+2018-02-12 11:19:36 Reference Un_gl000227 baseline contains 0 variants.
+2018-02-12 11:19:36 Reference Un_gl000227 calls contains 28 variants.
+2018-02-12 11:19:36 Reference Un_gl000228 baseline contains 0 variants.
+2018-02-12 11:19:36 Reference Un_gl000228 calls contains 164 variants.
+2018-02-12 11:19:36 Reference Un_gl000229 baseline contains 0 variants.
+2018-02-12 11:19:36 Reference Un_gl000229 calls contains 124 variants.
+2018-02-12 11:19:36 Reference Un_gl000230 baseline contains 0 variants.
+2018-02-12 11:19:36 Reference Un_gl000230 calls contains 23 variants.
+2018-02-12 11:19:36 Reference Un_gl000231 baseline contains 0 variants.
+2018-02-12 11:19:36 Reference Un_gl000231 calls contains 186 variants.
+2018-02-12 11:19:36 Reference Un_gl000232 baseline contains 0 variants.
+2018-02-12 11:19:36 Reference Un_gl000232 calls contains 200 variants.
+2018-02-12 11:19:37 Reference Un_gl000233 baseline contains 0 variants.
+2018-02-12 11:19:37 Reference Un_gl000233 calls contains 195 variants.
+2018-02-12 11:19:37 Reference Un_gl000234 baseline contains 0 variants.
+2018-02-12 11:19:37 Reference Un_gl000234 calls contains 276 variants.
+2018-02-12 11:19:37 Reference Un_gl000235 baseline contains 0 variants.
+2018-02-12 11:19:37 Reference Un_gl000235 calls contains 572 variants.
+2018-02-12 11:19:37 Reference Un_gl000236 baseline contains 0 variants.
+2018-02-12 11:19:37 Reference Un_gl000236 calls contains 12 variants.
+2018-02-12 11:19:37 Reference Un_gl000237 baseline contains 0 variants.
+2018-02-12 11:19:37 Reference Un_gl000237 calls contains 550 variants.
+2018-02-12 11:19:37 Reference Un_gl000238 baseline contains 0 variants.
+2018-02-12 11:19:37 Reference Un_gl000238 calls contains 11 variants.
+2018-02-12 11:19:37 Reference Un_gl000239 baseline contains 0 variants.
+2018-02-12 11:19:37 Reference Un_gl000239 calls contains 93 variants.
+2018-02-12 11:19:38 Reference Un_gl000240 baseline contains 0 variants.
+2018-02-12 11:19:38 Reference Un_gl000240 calls contains 315 variants.
+2018-02-12 11:19:38 Reference Un_gl000241 baseline contains 0 variants.
+2018-02-12 11:19:38 Reference Un_gl000241 calls contains 441 variants.
+2018-02-12 11:19:38 Reference Un_gl000242 baseline contains 0 variants.
+2018-02-12 11:19:38 Reference Un_gl000242 calls contains 29 variants.
+2018-02-12 11:19:38 Reference Un_gl000243 baseline contains 0 variants.
+2018-02-12 11:19:38 Reference Un_gl000243 calls contains 111 variants.
+2018-02-12 11:19:38 Reference Un_gl000244 baseline contains 0 variants.
+2018-02-12 11:19:38 Reference Un_gl000244 calls contains 49 variants.
+2018-02-12 11:19:38 Reference Un_gl000245 baseline contains 0 variants.
+2018-02-12 11:19:38 Reference Un_gl000245 calls contains 40 variants.
+2018-02-12 11:19:39 Reference Un_gl000246 baseline contains 0 variants.
+2018-02-12 11:19:39 Reference Un_gl000246 calls contains 11 variants.
+2018-02-12 11:19:39 Reference Un_gl000247 baseline contains 0 variants.
+2018-02-12 11:19:39 Reference Un_gl000247 calls contains 104 variants.
+2018-02-12 11:19:39 Reference Un_gl000248 baseline contains 0 variants.
+2018-02-12 11:19:39 Reference Un_gl000248 calls contains 7 variants.
+2018-02-12 11:19:39 Reference Un_gl000249 baseline contains 0 variants.
+2018-02-12 11:19:39 Reference Un_gl000249 calls contains 5 variants.
+2018-02-12 11:19:39 Fraction of calls outside evaluation regions: 0.2940 (1178942/4009489)
+2018-02-12 11:19:39 Threshold  True-pos-baseline  True-pos-call  False-pos  False-neg  Precision  Sensitivity  F-measure
+----------------------------------------------------------------------------------------------------
+    1.000            3391744        3391964     617525     115157     0.8460       0.9672     0.9025
+     None            3391744        3391964     617525     115157     0.8460       0.9672     0.9025
+
+2018-02-12 11:19:40 Finished successfully in 174 s.

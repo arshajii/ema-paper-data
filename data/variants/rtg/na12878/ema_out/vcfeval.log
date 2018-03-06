@@ -1,0 +1,148 @@
+2017-10-31 10:24:27 serial = 27182818284
+2017-10-31 10:24:27 email = anon
+2017-10-31 10:24:27 RTG version = RTG Tools 3.8.4 / Core bdba5ea (2017-09-19)
+2017-10-31 10:24:32 awt.toolkit = sun.lwawt.macosx.LWCToolkit
+2017-10-31 10:24:32 file.encoding = UTF-8
+2017-10-31 10:24:32 file.encoding.pkg = sun.io
+2017-10-31 10:24:32 file.separator = /
+2017-10-31 10:24:32 gopherProxySet = false
+2017-10-31 10:24:32 host.name = Ariyas-MacBook-Pro-2.local
+2017-10-31 10:24:32 java.awt.graphicsenv = sun.awt.CGraphicsEnvironment
+2017-10-31 10:24:32 java.awt.printerjob = sun.lwawt.macosx.CPrinterJob
+2017-10-31 10:24:32 java.class.path = /Users/arshajii/Documents/research/map10x/utils/rtg-tools/dist/rtg-tools-3.8.4-bdba5ea/RTG.jar
+2017-10-31 10:24:32 java.class.version = 52.0
+2017-10-31 10:24:32 java.endorsed.dirs = /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/endorsed
+2017-10-31 10:24:32 java.ext.dirs = /Users/arshajii/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+2017-10-31 10:24:32 java.home = /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre
+2017-10-31 10:24:32 java.io.tmpdir = /var/folders/l0/8qx8wvwj3y99fmk0rffwcjdw0000gn/T/
+2017-10-31 10:24:32 java.library.path = /Users/arshajii/Documents/research/map10x/utils/rtg-tools/dist/rtg-tools-3.8.4-bdba5ea
+2017-10-31 10:24:32 java.runtime.name = Java(TM) SE Runtime Environment
+2017-10-31 10:24:32 java.runtime.version = 1.8.0_121-b13
+2017-10-31 10:24:32 java.specification.name = Java Platform API Specification
+2017-10-31 10:24:32 java.specification.vendor = Oracle Corporation
+2017-10-31 10:24:32 java.specification.version = 1.8
+2017-10-31 10:24:32 java.vendor = Oracle Corporation
+2017-10-31 10:24:32 java.vendor.url = http://java.oracle.com/
+2017-10-31 10:24:32 java.vendor.url.bug = http://bugreport.sun.com/bugreport/
+2017-10-31 10:24:32 java.version = 1.8.0_121
+2017-10-31 10:24:32 java.vm.info = mixed mode
+2017-10-31 10:24:32 java.vm.name = Java HotSpot(TM) 64-Bit Server VM
+2017-10-31 10:24:32 java.vm.specification.name = Java Virtual Machine Specification
+2017-10-31 10:24:32 java.vm.specification.vendor = Oracle Corporation
+2017-10-31 10:24:32 java.vm.specification.version = 1.8
+2017-10-31 10:24:32 java.vm.vendor = Oracle Corporation
+2017-10-31 10:24:32 java.vm.version = 25.121-b13
+2017-10-31 10:24:32 lang.version = 1.8.0_121
+2017-10-31 10:24:32 line.separator = 
+
+2017-10-31 10:24:32 models.dir = /Users/arshajii/Documents/research/map10x/utils/rtg-tools/dist/rtg-tools-3.8.4-bdba5ea/models
+2017-10-31 10:24:32 os.arch = x86_64
+2017-10-31 10:24:32 os.freememory = 1927143424
+2017-10-31 10:24:32 os.name = Mac OS X
+2017-10-31 10:24:32 os.totalmemory = 17179869184
+2017-10-31 10:24:32 os.version = 10.12.6
+2017-10-31 10:24:32 path.separator = :
+2017-10-31 10:24:32 processor.arch = x86_64
+2017-10-31 10:24:32 processor.count = 4
+2017-10-31 10:24:32 references.dir = /Users/arshajii/Documents/research/map10x/utils/rtg-tools/dist/rtg-tools-3.8.4-bdba5ea/references
+2017-10-31 10:24:32 runtime.freememory = 244002464
+2017-10-31 10:24:32 runtime.maxmemory = 13744734208
+2017-10-31 10:24:32 runtime.totalMemory = 257425408
+2017-10-31 10:24:32 sun.arch.data.model = 64
+2017-10-31 10:24:32 sun.boot.class.path = /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/classes
+2017-10-31 10:24:32 sun.boot.library.path = /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib
+2017-10-31 10:24:32 sun.cpu.endian = little
+2017-10-31 10:24:32 sun.cpu.isalist = 
+2017-10-31 10:24:32 sun.io.unicode.encoding = UnicodeBig
+2017-10-31 10:24:32 sun.java.command = /Users/arshajii/Documents/research/map10x/utils/rtg-tools/dist/rtg-tools-3.8.4-bdba5ea/RTG.jar vcfeval --baseline=HG001_GRCh37_GIAB_highconf_CG-IllFB-IllGATKHC-Ion-10X-SOLID_CHROM1-X_v.3.3.2_highconf_PGandRTGphasetransfer.vcf.gz --bed-regions=HG001_GRCh37_GIAB_highconf_CG-IllFB-IllGATKHC-Ion-10X-SOLID_CHROM1-X_v.3.3.2_highconf_nosomaticdel.bed --calls=ema_out.final.reformat.vcf.gz --threads=1 --output=ema_out_final --template=hg19_new.sdf
+2017-10-31 10:24:32 sun.java.launcher = SUN_STANDARD
+2017-10-31 10:24:32 sun.jnu.encoding = UTF-8
+2017-10-31 10:24:32 sun.management.compiler = HotSpot 64-Bit Tiered Compilers
+2017-10-31 10:24:32 sun.os.patch.level = unknown
+2017-10-31 10:24:32 talkback = true
+2017-10-31 10:24:32 user.country = US
+2017-10-31 10:24:32 user.dir = /Users/arshajii/Documents/research/map10x/utils/data
+2017-10-31 10:24:32 user.home = /Users/arshajii
+2017-10-31 10:24:32 user.language = en
+2017-10-31 10:24:32 user.name = arshajii
+2017-10-31 10:24:32 user.timezone = America/New_York
+2017-10-31 10:24:32 vendor = Oracle Corporation
+2017-10-31 10:24:32 gzipfix.enabled = true
+2017-10-31 10:24:32 Command line arguments: rtg vcfeval --baseline=HG001_GRCh37_GIAB_highconf_CG-IllFB-IllGATKHC-Ion-10X-SOLID_CHROM1-X_v.3.3.2_highconf_PGandRTGphasetransfer.vcf.gz --bed-regions=HG001_GRCh37_GIAB_highconf_CG-IllFB-IllGATKHC-Ion-10X-SOLID_CHROM1-X_v.3.3.2_highconf_nosomaticdel.bed --calls=ema_out.final.reformat.vcf.gz --threads=1 --output=ema_out_final --template=hg19_new.sdf
+2017-10-31 10:24:32 Run Id: 2aeb8270-bbdf-4637-8321-fd711b5326a1
+2017-10-31 10:24:32 Referenced SDF-ID: 13a48056-2d9c-4ca6-8c6b-974fe0ce4500 Type: DNA Sequences: 85 Max-Length: 249250621 Min-Length: 4262 Arm: UNKNOWN
+2017-10-31 10:24:37 Reference 1 baseline contains 285304 variants.
+2017-10-31 10:24:37 Reference 1 calls contains 307499 variants.
+2017-10-31 10:24:42 Reference 1 had maximum path complexity of 537 at 1:238722471-238722958
+2017-10-31 10:24:52 Reference 2 baseline contains 305322 variants.
+2017-10-31 10:24:52 Reference 2 calls contains 329234 variants.
+2017-10-31 10:24:56 Reference 2 had maximum path complexity of 3420 at 2:105849275-105849330
+2017-10-31 10:25:05 Reference 3 baseline contains 255783 variants.
+2017-10-31 10:25:05 Reference 3 calls contains 275533 variants.
+2017-10-31 10:25:07 Reference 3 had maximum path complexity of 415 at 3:158275628-158276220
+2017-10-31 10:25:18 Reference 4 baseline contains 272391 variants.
+2017-10-31 10:25:18 Reference 4 calls contains 291438 variants.
+2017-10-31 10:25:20 Reference 4 had maximum path complexity of 193 at 4:38290070-38290379
+2017-10-31 10:25:29 Reference 5 baseline contains 232742 variants.
+2017-10-31 10:25:29 Reference 5 calls contains 250766 variants.
+2017-10-31 10:25:31 Reference 5 had maximum path complexity of 574 at 5:97465220-97465375
+2017-10-31 10:25:38 Reference 6 baseline contains 224464 variants.
+2017-10-31 10:25:38 Reference 6 calls contains 241450 variants.
+2017-10-31 10:25:40 Reference 6 had maximum path complexity of 142 at 6:64724672-64725072
+2017-10-31 10:25:47 Reference 7 baseline contains 196967 variants.
+2017-10-31 10:25:47 Reference 7 calls contains 211469 variants.
+2017-10-31 10:25:49 Reference 7 had maximum path complexity of 365 at 7:16771523-16771661
+2017-10-31 10:25:55 Reference 8 baseline contains 200181 variants.
+2017-10-31 10:25:55 Reference 8 calls contains 214500 variants.
+2017-10-31 10:25:57 Reference 8 had maximum path complexity of 188 at 8:106425710-106425774
+2017-10-31 10:26:03 Reference 9 baseline contains 154340 variants.
+2017-10-31 10:26:03 Reference 9 calls contains 165131 variants.
+2017-10-31 10:26:05 Reference 9 had maximum path complexity of 235 at 9:110957365-110958478
+2017-10-31 10:26:10 Reference 10 baseline contains 179944 variants.
+2017-10-31 10:26:10 Reference 10 calls contains 192465 variants.
+2017-10-31 10:26:11 Reference 10 had maximum path complexity of 219 at 10:70689050-70689982
+2017-10-31 10:26:17 Reference 11 baseline contains 181823 variants.
+2017-10-31 10:26:17 Reference 11 calls contains 194944 variants.
+2017-10-31 10:26:18 Reference 11 had maximum path complexity of 545 at 11:25994423-25994927
+2017-10-31 10:26:24 Reference 12 baseline contains 174671 variants.
+2017-10-31 10:26:24 Reference 12 calls contains 187905 variants.
+2017-10-31 10:26:25 Reference 12 had maximum path complexity of 188 at 12:52856773-52856891
+2017-10-31 10:26:31 Reference 13 baseline contains 143369 variants.
+2017-10-31 10:26:31 Reference 13 calls contains 152862 variants.
+2017-10-31 10:26:32 Reference 13 had maximum path complexity of 147 at 13:86351637-86351780
+2017-10-31 10:26:36 Reference 14 baseline contains 117407 variants.
+2017-10-31 10:26:36 Reference 14 calls contains 126465 variants.
+2017-10-31 10:26:37 Reference 14 had maximum path complexity of 188 at 14:98711835-98712248
+2017-10-31 10:26:41 Reference 15 baseline contains 102416 variants.
+2017-10-31 10:26:41 Reference 15 calls contains 110337 variants.
+2017-10-31 10:26:41 Reference 15 had maximum path complexity of 178 at 15:69862036-69862269
+2017-10-31 10:26:45 Reference 16 baseline contains 107622 variants.
+2017-10-31 10:26:45 Reference 16 calls contains 114905 variants.
+2017-10-31 10:26:46 Reference 16 had maximum path complexity of 250 at 16:87655705-87655771
+2017-10-31 10:26:49 Reference 17 baseline contains 90985 variants.
+2017-10-31 10:26:49 Reference 17 calls contains 98319 variants.
+2017-10-31 10:26:50 Reference 17 had maximum path complexity of 188 at 17:48208032-48208273
+2017-10-31 10:26:53 Reference 18 baseline contains 109133 variants.
+2017-10-31 10:26:53 Reference 18 calls contains 116302 variants.
+2017-10-31 10:26:54 Reference 18 had maximum path complexity of 175 at 18:65053618-65054945
+2017-10-31 10:26:57 Reference 19 baseline contains 71208 variants.
+2017-10-31 10:26:57 Reference 19 calls contains 75944 variants.
+2017-10-31 10:26:57 Reference 19 had maximum path complexity of 156 at 19:7202998-7203834
+2017-10-31 10:26:59 Reference 20 baseline contains 76260 variants.
+2017-10-31 10:26:59 Reference 20 calls contains 82156 variants.
+2017-10-31 10:27:00 Reference 20 had maximum path complexity of 133 at 20:13372440-13372456
+2017-10-31 10:27:02 Reference 21 baseline contains 51912 variants.
+2017-10-31 10:27:02 Reference 21 calls contains 55026 variants.
+2017-10-31 10:27:03 Reference 21 had maximum path complexity of 133 at 21:45368299-45368490
+2017-10-31 10:27:05 Reference 22 baseline contains 43030 variants.
+2017-10-31 10:27:05 Reference 22 calls contains 45799 variants.
+2017-10-31 10:27:05 Reference 22 had maximum path complexity of 185 at 22:48751808-48752006
+2017-10-31 10:27:07 Reference X baseline contains 113882 variants.
+2017-10-31 10:27:07 Reference X calls contains 129349 variants.
+2017-10-31 10:27:08 Reference X had maximum path complexity of 565 at X:86596539-86597449
+2017-10-31 10:27:11 Threshold  True-pos-baseline  True-pos-call  False-pos  False-neg  Precision  Sensitivity  F-measure
+----------------------------------------------------------------------------------------------------
+    3.000            3613050        3613137     352775      78106     0.9110       0.9788     0.9437
+     None            3614882        3614969     354829      76274     0.9106       0.9793     0.9437
+
+2017-10-31 10:27:12 Finished successfully in 165 s.

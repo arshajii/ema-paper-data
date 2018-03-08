@@ -34,3 +34,8 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Other #
+#########
+.ipynb_checkpoints
+
